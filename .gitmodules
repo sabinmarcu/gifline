@@ -1,0 +1,3 @@
+[submodule "data/crx"]
+	path = data/crx
+	url = git@github.com:sabinmarcu/gifline.git
